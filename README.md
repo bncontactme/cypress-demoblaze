@@ -2,6 +2,7 @@ Demoblaze Cypress Test Automation
 
 This project automates UI testing for the DemoBlaze e-commerce site using Cypress and the Page Object Model (POM) approach. 
 
+
 Installation
 
 1. Clone the Repository
@@ -15,6 +16,7 @@ npm install
 npx cypress open
 
 4. Select a test from the Cypress Test UI to execute.
+
 
 Fixture Files
 
@@ -37,6 +39,7 @@ Cart Functionality
 Checkout Process
 
 *Complete order and validate purchase confirmation
+
 
 Contact
 
