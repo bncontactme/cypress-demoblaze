@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Cypress folders
+cypress/screenshots/
+
+# Cypress cache
+.cache/
+
+# Log files
+*.log

@@ -1,0 +1,14 @@
+{
+  "selectProductIphone6": {
+    "username": "admin",
+    "password": "admin",
+    "product": "Iphone 6",
+    "expectedprice": "$790 *includes tax",
+    "name": "DUMMYTEST",
+    "country": "USA",
+    "city": "OHIO",
+    "creditCard": "XXXX XXXX XXXX XXXX",
+    "month": "12",
+    "year": "2032"
+  }
+}
